@@ -23,11 +23,11 @@ Flixx App is a web application that showcases popular movies and TV shows, allow
 - Use the search bar to find specific movies or TV shows
 - Click on a movie or TV show to view detailed information
 
+## Deployment
+
+This project is deployed on Netlify. You can access it [here](https://flixxmoviesandshows.netlify.app/).
+
 ## Screenshots
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
-
-## Deployment
-
-This project is deployed on Netlify. You can access it [here](https://flixxmoviesandshows.netlify.app/).
